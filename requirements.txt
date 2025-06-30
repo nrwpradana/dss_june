@@ -1,0 +1,9 @@
+streamlit
+pandas
+sentence-transformers
+faiss-cpu
+transformers
+torch
+matplotlib
+seaborn
+numpy
